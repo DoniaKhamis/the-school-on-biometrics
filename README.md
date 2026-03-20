@@ -1,4 +1,8 @@
 # Biometric Identification
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 This repository contains the final project for the **School on Biometrics** course. The project focuses on evaluating biometric identification tools and implementing "Late Fusion" techniques to improve system accuracy beyond the capabilities of a single algorithm.
 
